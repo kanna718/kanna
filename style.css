@@ -1,0 +1,216 @@
+body{
+    margin: 0;
+}
+.nav-item{
+    margin-right: 15px;
+    font-weight: bold;
+    font-family: 'Kanit', sans-serif;
+    font-size: 1.1rem;
+}
+.navbar-brand{
+    font-weight: bold;
+    font-family: 'Kanit', sans-serif;
+    font-size: 2.1rem;
+}
+.color{
+    color: black;
+}
+.link{
+    color:white;
+}
+
+/* section 2 */
+#content{
+    text-align: center;
+    margin-top: 7%;
+}
+.half{
+    margin-top: 6%;
+    line-height: 2;
+}
+.about{
+    border-radius:1.2em;
+    padding-right: 3%;
+    padding-left: 3%;
+    display: block;
+    margin-left: 38%;
+    margin-bottom: 5%;
+}
+a{
+    text-decoration: none;
+}
+.app{
+    margin-right: 15px;
+    margin-bottom: 100px;
+}
+.app:hover{
+    color:#19A7CE;
+}
+h1{
+    font-family:'Kanit', sans-serif ;
+    font-weight: bolder;
+}
+p{
+    font-family: 'Kanit', sans-serif;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+span{
+    color: red;
+}
+.idea-img{
+    margin-bottom: 15%;
+    margin-left: 7%;
+}
+
+/* education page */
+.education{
+    text-align: center;
+    margin-top: 10%;
+}
+.edu-img{
+    display: block;
+    margin:5%  15% 2%;
+    width:84%;
+}
+.nob-img{
+    margin:5% 30% 7%;
+    display: block;
+}
+.yes{
+    margin-bottom: 80px;
+}
+.snm-img{
+    display: block;
+    margin:5%  20% 5%;
+    width:56%
+}
+
+.edu-head{
+    margin-top: 40px;
+    font-weight: bolder;
+    font-family: 'Kanit', sans-serif;
+}
+.card{
+   box-shadow: 10px 10px 10px 10px gray; 
+}
+.noble{
+    width: 40%;
+}
+.right{
+    margin-right: 20px;
+}
+.b{
+    margin-top: 15px;
+}
+.education-margin{
+    padding:0 100px 10%;
+}
+.sairam{
+    width: 38%;
+}
+.pri{
+    width: 100%;
+}
+
+
+/* skill page */
+
+.contact-margin{
+    text-align: center;
+    margin-top: 8%;
+}
+
+.css-head{
+    margin-bottom: 8%;
+}
+.skill-main{
+    margin-left: 7%;
+    margin-top: 7%;
+}
+.second-skill{
+    text-align: center;
+    margin-top: 8%;
+}
+.para{
+    margin-top: 5%;
+    margin-left: 27%;
+    width: 50%;
+}
+.p-margin{
+    margin-bottom: 50px;
+}
+.web{
+    margin-bottom: 50px;
+}
+
+/* contact */
+
+.card-phone{
+    width: 100%;
+    margin-top: 50px;
+}
+.mail-card{
+    width: 100%;
+    margin-top: 50px;
+
+}
+.mail-img{
+    margin-bottom: 34px;
+}
+.linkedin-card{
+    margin-top: 50px;
+}
+.loc-card{
+    margin-top: 50px;
+}
+
+
+/* about */
+
+
+
+#about-part{
+    text-align: center;
+}
+.about-para{
+    width: 45%;
+    margin-left: 25%;
+    margin-top: 5%;
+    margin-bottom: 3%;
+    line-height: 2;
+}
+
+
+hr{
+    border-style: hidden;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    /* border-top-style:dotted;
+    width: 6%;
+    margin-left: 46%;
+    border-color:red;
+    border-width:15px; */
+}
+.about-img{
+    margin: 4% 0 5%;
+}
+.about-para-para{
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 2%;
+    
+}
+.about-kanna{
+    font-family: 'Kanit', sans-serif;
+    font-weight: lighter;
+}
+
+.about-head{
+    font-family: 'Satisfy', cursive;
+    font-weight: bold;
+}
+.about-button{
+    margin-bottom: 5%;
+    margin-top: 3%;
+}
